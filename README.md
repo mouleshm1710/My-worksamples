@@ -2,7 +2,7 @@ Hi, I am very much glad to showcase some of my work samples on data science & ma
 I would like to thank the team at appliedAI course who motivated & guided me on solving these assignments whenever im stuck at some point. 
 
 All these assignments cover a range of topics like 
-1) EDA in Python(Haberman dataset)
+1) EDA in Python(Haberman dataset),Perturbation tests,Outlier Impact etc..
 2) Naive Bayes,Logistic regression,SVM implementation
 3) Hyperparameter tuning in Python (Overfitting/underfitting)
 4) Decision trees, Random forest, GBDT implementation
@@ -14,3 +14,6 @@ All these assignments cover a range of topics like
 10) Clustering on graph dataset
 11) Deep learning --> Backpropagation,Callbacks,Tensorboard
 12) CNN & LSTM implementation
+
+NOTE : PLEASE FEEL FREE TO CHECK OUT MY DEMO VIDEO(WORKING OF THE MODEL)
+OF TWITTER SENTIMENT PREDICTION WEB APP(BUILT USING STREAMLIT)
