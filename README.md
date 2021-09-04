@@ -1,5 +1,6 @@
-Hi, I am very much glad to showcase some of my work samples on data science & machine learning. I hereby assure you that these works are solely done by me and also,
-I would like to thank the team at appliedAI who motivated & guided me on solving these assignments whenever im stuck at some point. 
+Hi, I am very much glad to showcase some of my work samples on data science & machine learning and also assure you that these works are solely done by me.
+I would like to thank the team at appliedAI course who motivated & guided me on solving these assignments whenever im stuck at some point. 
+
 All these assignments cover a range of topics like 
 1) EDA in Python(Haberman dataset)
 2) Naive Bayes,Logistic regression,SVM implementation
