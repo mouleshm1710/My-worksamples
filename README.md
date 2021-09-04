@@ -7,8 +7,8 @@ All these assignments cover a range of topics like
 4) Decision trees, Random forest, GBDT implementation
 5) Naive Bayes algorithm implementation
 6) Beautiful Soup Web Scraping
-7) Various Performance metrics --> like Accuracy,F1score,AUC, Log loss etc.. 
-8) NLP specific Text cleaning & Preprocessing, TFIDF,Word2vec
+7) Various Performance metrics --> like Accuracy,F1score,AUC,Confusion matrix,Log loss etc.. 
+8) NLP specific Text cleaning & Preprocessing, TFIDF,Word2vec,Word Cloud
 9) Some Feature engineering stuffs
 10) Clustering on graph dataset
 11) Deep learning --> Backpropagation,Callbacks,Tensorboard
