@@ -14,6 +14,3 @@ All these assignments cover a range of topics like
 10) Clustering on graph dataset
 11) Deep learning --> Backpropagation,Callbacks,Tensorboard
 12) CNN & LSTM implementation
-
-NOTE : PLEASE FEEL FREE TO CHECK OUT MY DEMO VIDEO(WORKING OF THE MODEL)
-OF TWITTER SENTIMENT PREDICTION WEB APP(BUILT USING STREAMLIT) --> https://github.com/mouleshm1710/TWITTER-SENTIMENT-ANALYSIS-ML-APP.git
